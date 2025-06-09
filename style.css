@@ -5,7 +5,7 @@ body {
     padding-bottom: 300px; 
 }
 
-.container {
+.quiz {
     display: flex;
     width: 400px;
     height: 400px;
@@ -23,7 +23,7 @@ h3 {
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 
-.score-container {
+.score {
     display: flex;
     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     background-color: gainsboro;
@@ -38,10 +38,6 @@ h3 {
 .questions {
     display: flex;
     justify-content: center;
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-}
-
-.input-container {
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 
